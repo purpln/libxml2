@@ -1,0 +1,4 @@
+module clibxml2 [system] {
+    header "libxml2.h"
+    export *
+}
